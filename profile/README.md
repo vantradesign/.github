@@ -46,4 +46,6 @@ The GitHub organization is **`vantradesign`**; the npm scope is **`@vantra-desig
 
 ## License
 
-Everything here is [AGPL-3.0](https://www.gnu.org/licenses/agpl-3.0.en.html).
+Each project is licensed individually; the licence is stated in its repository.
+Most are [AGPL-3.0](https://www.gnu.org/licenses/agpl-3.0.en.html); `vantra-a11y-fixer`
+is [MPL-2.0](https://mozilla.org/MPL/2.0/) to match its bundled dependencies.
